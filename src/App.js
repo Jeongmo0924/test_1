@@ -2,11 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  return (
-    <div className="App">
-      header3
-    </div>
-  );
+  const a = 1;
+  a = 12;
+
+  return <div className="App">header3 asdf</div>;
 }
 
 export default App;
